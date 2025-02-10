@@ -49,7 +49,7 @@
     },
     {
       "id": 3,
-      "Title": "Home Lab",
+      "Title": "Home-Lab",
       "Description": "Set up a virtualized cybersecurity testing environment with Kali Linux and Windows 10 virtual machines.",
       "Tags": [
         "Kali Linux",
