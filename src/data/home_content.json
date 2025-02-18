@@ -76,7 +76,6 @@
       "Title": "Image Steganography GUI using Python",
       "Description": "A GUI-based Image Steganography tool built with Python, OpenCV, and Tkinter, allowing users to securely hide and retrieve messages within images, featuring a sleek Windows 11-like UI.",
       "Tags": [
-        "Penetration Testing",
         "Python",
         "OpenCV",
         "Tkinter",
