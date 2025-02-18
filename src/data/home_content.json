@@ -70,6 +70,24 @@
       ],
       "DemoLink": "",
       "GitLink": "https://github.com/NIKHIL-WR34/VAPT-Report/"
+    },
+    {
+      "id": 5,
+      "Title": "Image Steganography GUI using Python",
+      "Description": "A Graphical User Interface (GUI) version of Image Steganography, built using Python, OpenCV, and Tkinter. This tool allows users to securely hide and retrieve secret messages inside images with a sleek Windows 11-like UI.",
+      "Tags": [
+        "Penetration Testing",
+        "Python",
+        "OpenCV",
+        "Tkinter",
+        "Steganography",
+        "Cybersecurity",
+        "Image Processing",
+        "Cryptography",
+        "GUI Development"
+      ],
+      "DemoLink": "",
+      "GitLink": "https://github.com/NIKHIL-WR34/Steganograpy-GUI-AICTE"
     }
   ]
 }
