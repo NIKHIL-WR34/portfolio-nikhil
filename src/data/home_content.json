@@ -87,6 +87,20 @@
       ],
       "DemoLink": "",
       "GitLink": "https://github.com/NIKHIL-WR34/Steganograpy-GUI-AICTE"
+    },
+    {
+      "id": 6,
+      "Title": "Step-by-Step Guide: Installing Windows & Kali Linux VMs on VMware Workstation Pro",
+      "Description": "A detailed guide on setting up Windows and Kali Linux virtual machines using VMware Workstation Pro, covering installation, configuration, and optimization for cybersecurity testing.",
+      "Tags": [
+        "VMware",
+        "Kali Linux",
+        "Windows",
+        "Virtualization",
+        "Ethical Hacking"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/step-by-step-guide-installing-windows-kali-linux-virtual-machines-on-vmware-workstation-pro-615a910798eb",
+      "GitLink": ""
     }
   ]
 }
