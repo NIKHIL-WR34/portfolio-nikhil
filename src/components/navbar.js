@@ -40,22 +40,22 @@ function Navbar() {
         <ul>
           <li>
             <a href="#heroSection">
-              <p>01. </p> Home
+              <p></p> Home
             </a>
           </li>
           <li>
             <a href="#gitbutton">
-              <p>02. </p> Experience
+              <p></p> Experience
             </a>
           </li>
           <li>
             <a href="#aboutSkillList">
-              <p>03. </p>Projects & Writeups
+              <p></p>Projects & Writeups
             </a>
           </li>
           <li>
             <a href="#showMoreButt">
-              <p>04. </p>Contact
+              <p></p>Contact
             </a>
           </li>
           <li>
@@ -81,22 +81,22 @@ function Navbar() {
           <ul>
             <li>
               <a href="#heroSection">
-                <p>01. </p> Home
+                <p></p> Home
               </a>
             </li>
             <li>
               <a href="#gitbutton">
-                <p>02. </p> Experience
+                <p></p> Experience
               </a>
             </li>
             <li>
               <a href="#projectScroll">
-                <p>03. </p>Projects
+                <p></p>Projects
               </a>
             </li>
             <li>
               <a href="#showMoreButt">
-                <p>04. </p>Contact
+                <p></p>Contact
               </a>
             </li>
             <li>
