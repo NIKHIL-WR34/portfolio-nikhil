@@ -98,6 +98,32 @@
       ],
       "DemoLink": "https://medium.com/@nikhilbwr34/step-by-step-guide-installing-windows-kali-linux-virtual-machines-on-vmware-workstation-pro-615a910798eb",
       "GitLink": ""
+    },
+    {
+      "id": 7,
+      "Title": "PortSwigger Lab: File path traversal, simple case",
+      "Description": "A walkthrough on exploiting file path traversal vulnerabilities in a PortSwigger lab to access sensitive files using Burp Suite and Linux commands",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-simple-case-cb07f4e2cf78",
+      "GitLink": ""
+    },
+    {
+      "id": 8,
+      "Title": "PortSwigger Lab: File path traversal, traversal sequences blocked with absolute path bypass",
+      "Description": "A walkthrough on bypassing restricted traversal sequences using absolute paths to exploit file path traversal vulnerabilities in a PortSwigger lab.",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-54a2bcec5b83",
+      "GitLink": ""
     }
   ]
 }
