@@ -33,7 +33,7 @@
         "Wi-Fi Security"
       ],
       "DemoLink": "https://pwnagotchi.org/index.html",
-      "GitLink": "https://github.com/username/Pwnagotchi"
+      "GitLink": ""
     },
     {
       "id": 2,
@@ -68,8 +68,8 @@
         "Vulnerability Assessment",
         "Reporting"
       ],
-      "DemoLink": "",
-      "GitLink": "https://github.com/NIKHIL-WR34/VAPT-Report/"
+      "DemoLink": "https://github.com/NIKHIL-WR34/VAPT-Report/",
+      "GitLink": ""
     },
     {
       "id": 5,
@@ -82,8 +82,8 @@
         "Steganography",
         "GUI Development"
       ],
-      "DemoLink": "",
-      "GitLink": "https://github.com/NIKHIL-WR34/Steganograpy-GUI-AICTE"
+      "DemoLink": "https://github.com/NIKHIL-WR34/Steganograpy-GUI-AICTE",
+      "GitLink": ""
     },
     {
       "id": 6,
@@ -123,6 +123,32 @@
         "Path Traversal"
       ],
       "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-54a2bcec5b83",
+      "GitLink": ""
+    },
+    {
+      "id": 9,
+      "Title": "PortSwigger Lab: File path traversal, traversal sequences stripped non-recursively",
+      "Description": "A walkthrough on exploiting file path traversal vulnerabilities by bypassing non-recursively stripped traversal sequences in a PortSwigger lab.",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-traversal-sequences-stripped-non-recursively-624d8562f742",
+      "GitLink": ""
+    },
+    {
+      "id": 10,
+      "Title": "PortSwigger Lab: File path traversal, traversal sequences stripped with superfluous URL-decode",
+      "Description": "A walkthrough on exploiting file path traversal vulnerabilities by leveraging superfluous URL decoding to bypass restricted sequences in a PortSwigger lab.",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-traversal-sequences-stripped-with-superfluous-url-decode-99920ab68298",
       "GitLink": ""
     }
   ]
