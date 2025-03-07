@@ -150,6 +150,19 @@
       ],
       "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-traversal-sequences-stripped-with-superfluous-url-decode-99920ab68298",
       "GitLink": ""
+    },
+    {
+      "id": 11,
+      "Title": "PortSwigger Lab: File path traversal, validation of start of path",
+      "Description": "A walkthrough on bypassing path validation checks by modifying the filename parameter to exploit file path traversal vulnerabilities and access restricted files in a PortSwigger lab.",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-validation-of-start-of-path-43022f43df63",
+      "GitLink": ""
     }
   ]
 }
