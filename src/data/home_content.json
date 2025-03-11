@@ -163,6 +163,19 @@
       ],
       "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-validation-of-start-of-path-43022f43df63",
       "GitLink": ""
+    },
+    {
+      "id": 12,
+      "Title": "PortSwigger Lab: File path traversal, validation of file extension with null byte bypass",
+      "Description": "A walkthrough on bypassing file extension validation using a null byte injection to exploit file path traversal vulnerabilities in a PortSwigger lab.",
+      "Tags": [
+        "Portswigger Lab",
+        "BurpSuite",
+        "Linux",
+        "Path Traversal"
+      ],
+      "DemoLink": "https://medium.com/@nikhilbwr34/portswigger-lab-file-path-traversal-validation-of-file-extension-with-null-byte-bypass-05517555036e",
+      "GitLink": ""
     }
   ]
 }
